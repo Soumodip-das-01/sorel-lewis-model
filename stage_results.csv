@@ -1,0 +1,12 @@
+Stage,Vapor_y_in,Liquid_x,Section
+1,0.95,0.88372,rectifying
+2,0.90581,0.79368,rectifying
+3,0.84579,0.6869,rectifying
+4,0.7746,0.57888,rectifying
+5,0.70259,0.48584,stripping
+6,0.63112,0.40631,stripping
+7,0.52507,0.30663,stripping
+8,0.39218,0.20514,stripping
+9,0.25686,0.12146,stripping
+10,0.14528,0.06366,stripping
+11,0.06822,0.02845,reboiler
